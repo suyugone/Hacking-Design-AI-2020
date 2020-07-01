@@ -10,7 +10,7 @@ Hacking-Design-AI-2020
 └───Level01 智能设计 - 全流程技术架构初步
 │        论文笔记_绘本叙事生成.md
 │        论文骨架练习.ipynb
-└───Level02 色彩分类
+└───Level02-1 色彩分类
 │        primary_colors.ipynb 提取画面中主要色彩，输出配色方案
 │        structure.png 代码结构图
 ```
